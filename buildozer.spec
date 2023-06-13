@@ -4,7 +4,7 @@
 title = E-Image
 
 # (str) Package name
-package.name = imageapk
+package.name = sbkapk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.salahsbk
